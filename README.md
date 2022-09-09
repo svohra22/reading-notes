@@ -16,8 +16,6 @@
 - Finding ways to improve my code consistently 
 - Know that with practice, I will improve regardless of the ~circumstaancetsd~ circumstance
 
-
-
 ### <Practicing h3 in html>
 #### <Practicing h4 in html>
 

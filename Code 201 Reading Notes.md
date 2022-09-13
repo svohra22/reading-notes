@@ -5,8 +5,7 @@
 - Notes on small things to remember 
 
 ### Table of Contents 
-
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+:sunglasses:
 
 #### 15 daily reading assigments
 -

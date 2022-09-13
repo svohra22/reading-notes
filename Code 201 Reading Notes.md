@@ -4,8 +4,7 @@
 - information on Code 201 topics 
 - Notes on small things to remember 
 
-### Table of Contents 
-:sunglasses:
+### Table of Contents :sunglasses:
 
 #### 15 daily reading assigments
 -

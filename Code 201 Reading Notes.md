@@ -6,9 +6,9 @@
 
 ### Table of Contents 
 
-:EMOJICODE:
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-_15 daily reading assigments
+#### 15 daily reading assigments
 -
 -
 -

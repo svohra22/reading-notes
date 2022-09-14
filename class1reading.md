@@ -13,3 +13,7 @@ I learned about how _basic syntax works - from the Markdown guide_
  While writing a paragrpah, I realized how different the HTML (raw) version is compared to the Markdown version. As you read this, you will realize there is no space. 
  
  This makes the paragraph difficult to read and creates an unorganized clutter. 
+ 
+ How do you quote a text?
+ 
+ > Be the change you want to see in the world - Mahatma Gandhi 

@@ -19,7 +19,7 @@
 
 - color of background
 - brightly colored text
-- extensions (Visual Studio code inocporates "Emmet" which speeds up the efficiency of your code, but can be added as well) 
+- extensions (Visual Studio code inocporates *Emmet*8 which speeds up the efficiency of your code, but can be added as well) 
 - syntax highlighting *(takes the text you type and makes it more expressed by colorizing the text)* 
 
 

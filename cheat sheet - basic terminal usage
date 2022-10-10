@@ -1,11 +1,14 @@
 ### Command line Terminology
 
 pwd = print working directory; tels you what your current working directory is 
-ls = list contents of directory 
+ls = list contents of directory
+file (input file name without parentheses) = obtain information about what type of file a file or directory is
 cd = change directory
         - if you ***cd*** without any arguments, you will return back to your home directory 
         - usually, cd is ran with a single command line argument which is the location we would like to change into
-Tab Completion = auto complete an action 
+Tab Completion = auto complete an action
+ls -a = lists the contents of a directory, including hidden files 
+.(file name) = hides file 
 
 ~ (tilde) = shortcut for home directory; if home directory is /home/ryan, you could refer to the directory Documents with the path ***/home/ryan/Documents or ~/Documents
 . = reference to your current directory 

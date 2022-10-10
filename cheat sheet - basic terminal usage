@@ -1,1 +1,45 @@
+prompt - command - command line arguments
+user@bash: - ls - -l /home/ryan
+All separated by spaces
+must be a space b/w the ***command*** and the ***first command line argument*** also 
+
+After line 1 (above) plays out, then you get outputs *(multiple lines on terminal)* from running the command
+
+After command has ran and completed, the prompt will appear again ready for you to enter another command
+
+#### What is a shell?
+- part of the OS that defines ***how the terminal will behave and looks after running (or executing) commands for you.*** 
+- most common shell available: ***bash***
+
+echo = command which is usd to ***display messages***
+
+pwd = print working directory; tels you what your current working directory is 
+ls = list
+
+
+    
+***Absolute vs Relative Paths***
+
+Absolute path
+- specifies location (file or directory) in relation to the ***root directory*** 
+- you can identify them easily as they always begin with a forward slash (/)
+
+Relative path
+- specifies location (file or directory) in relation to where we currently are in the system. ***They will *not* begin with a slash.*** 
+
+root directory 
+- top of the hierarchical structure 
+- denoted by a single slash (/) 
+    - has subdirectories and so on; files may reside in any of these directories 
+    
+    
+    
+    
+
+
+
+    
+    
+
+
 
